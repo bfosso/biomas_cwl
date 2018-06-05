@@ -2,7 +2,7 @@
 
 cwlVersion: v1.0
 class: Workflow
-label: "BioMaS (Bioinformatic analysis of Metagenomic ampliconS) data merging and trimming"
+label: "BioMaS (Bioinformatic analysis of Metagenomic ampliconS)"
 inputs:
   R1: string
   R2: string
